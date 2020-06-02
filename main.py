@@ -24,3 +24,4 @@ if 0 <= user_selected_move < 3:
     print(var)
 else:
     print('That is not a choice!')
+    
