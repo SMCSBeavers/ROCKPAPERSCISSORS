@@ -1,6 +1,6 @@
 # Stanley Mohr
 # 6/2/20
-# Game for rock paper scissors
+# Game for rock paper scissors. Beginners project
 
 import random
 
